@@ -1,8 +1,0 @@
-prefix=/home/emre/Desktop/Inverse_Kinematics/devel
-
-Name: Inverse_Kinematics
-Description: Description of Inverse_Kinematics
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: sensor_msgs std_msgs geometry_msgs
